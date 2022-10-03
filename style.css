@@ -12,6 +12,32 @@ p2{
     font-family: impact;
     font-size: 20px;
 }
+p3{
+    color:orange;
+    font-family: impact;
+    font-size: 20px;
+    background-position: center center;
+}
+p4{
+    color:blueviolet;
+    font-family: impact;
+    font-size: 18px;
+}
+p5{
+    color:red;
+    font-family: impact;
+    font-size: 25px; 
+}
+p6{
+    color:black;
+    font-size: 20px;
+    background-color: rgb(178, 143, 79)
+}
+p7{
+    color:white;
+    font-family: impact;
+    font-size: 18px;
+}
 box1{
     background-color: antiquewhite;
     width:1000px;
@@ -23,7 +49,20 @@ box1{
 li{
     font-style: italic;
 }
-.photo{
-background-image: ;
-    
+figure{
+    /* width: 40px;
+    height: 40px; */
+    /* margin-right: 10px; */
+    background-size: 20px 20px;
+    color:orange;
+    font-family: impact;
+    font-size: 20px;
+    vertical-align:center;
+}
+iframe{
+    font-size: 60px;
+    position:left;
+    bottom:0px;
+    background-color: black;
+    color: #ff2d2d;
 }
