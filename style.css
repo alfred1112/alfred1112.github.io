@@ -5,9 +5,12 @@ p{
 p1{
     color:black;
     background-color:blue;
+    font-weight: bold;
 }
 p2{
     color:orange;
+    font-family: impact;
+    font-size: 20px;
 }
 box1{
     background-color: antiquewhite;
@@ -16,4 +19,7 @@ box1{
     background-image: url("https://images.unsplash.com/photo-1553451193-d4d44c036555?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80");
     background-size:500px 333px;
     background-repeat: no-repeat;
+}
+li{
+    font-style: italic;
 }
